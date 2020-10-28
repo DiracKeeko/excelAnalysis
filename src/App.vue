@@ -9,6 +9,7 @@
       </p>
       <el-button>el-button</el-button>
     </div>
+    <div> test </div>
     <HelloWorld msg="Welcome to Your Vue.js App"/>
   </div>
 </template>
